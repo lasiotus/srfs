@@ -12,6 +12,3 @@ bitflags = "2.4.*"
 log = "0.4.20"
 lru = "0.12.0"
 srfs-core = { version="0.1", features=["std"] }
-
-[dev-dependencies]
-rand = "*"
