@@ -1,8 +1,8 @@
 [package]
 name = "srfs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
-repository = "https://github.com/lasiotus/srfs"
+repository = "https://github.com/moturus/srfs"
 description = "Simple Rust File System"
 keywords = ["filesystem"]
 categories = ["filesystem"]
